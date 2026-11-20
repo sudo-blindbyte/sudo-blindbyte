@@ -1,5 +1,4 @@
-## Hi there 👋
-
+CYBERSECURITY | INNOVATOR | UAV TECHNOLOGIES
 <!--
 **sudo-blindbyte/sudo-blindbyte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
